@@ -1,0 +1,12 @@
+{
+  "name": "experience-primer-copilot-vsp05",
+  "version": "1.0.0",
+  "description": "<header>",
+  "main": "playground.js",
+  "scripts": {
+    "start": "node playground.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
